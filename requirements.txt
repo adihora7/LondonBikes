@@ -1,0 +1,5 @@
+pandas
+kaggle
+openpyxl
+XlsxWriter
+notebook
