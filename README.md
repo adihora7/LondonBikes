@@ -48,7 +48,7 @@ If you get a permission error, close the file in Excel or write to a different f
 
 - Analysis Overview
 
-- <img width="1366" height="769" alt="Visual Showcase" src="https://github.com/user-attachments/assets/3f356c1d-ac21-4c31-bf4f-b45ed3d80769" />
+<img width="1366" height="769" alt="Visual Showcase" src="https://github.com/user-attachments/assets/3f356c1d-ac21-4c31-bf4f-b45ed3d80769" />
 
 
 ## Troubleshooting
