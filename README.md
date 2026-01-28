@@ -46,6 +46,11 @@ If you get a permission error, close the file in Excel or write to a different f
 ## Outputs
 - `london_bikes_final.xlsx` — final dataset exported from the notebook.
 
+- Analysis Overview
+
+- <img width="1366" height="769" alt="Visual Showcase" src="https://github.com/user-attachments/assets/3f356c1d-ac21-4c31-bf4f-b45ed3d80769" />
+
+
 ## Troubleshooting
 - Kaggle CLI not found: ensure the Python `Scripts` folder containing `kaggle.exe` is on your PATH or run `python -m pip install --user kaggle` and add the user Scripts folder to PATH.
 - `to_excel` errors: see the Notes above (install `openpyxl` or `XlsxWriter`, ensure file not open).
